@@ -1,7 +1,7 @@
 # LINK
 ### 공부일지 <a href="https://github.com/ssoom98/ai"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 ### 1st PERSONAL PROJECT <a href="https://github.com/ssoom98/personal_project"><img src="https://img.shields.io/badge/PROJ[체중변화예측과 식단추천]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
-### 2ed TEAM PROJECT <a href="https://github.com/ssoom98/FitAI-Pro"><img src="https://img.shields.io/badge/FitAI-Pro-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
+### 2ed TEAM PROJECT <a href="https://github.com/ssoom98/FitAI-Pro"><img src="https://img.shields.io/badge/[FitAI-Pro]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
 
 
  # 📚 SKIL
