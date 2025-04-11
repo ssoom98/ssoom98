@@ -3,6 +3,8 @@
 ### 1st PERSONAL PROJECT <a href="https://github.com/ssoom98/personal_project"><img src="https://img.shields.io/badge/PROJ[체중변화예측과 식단추천]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
 ### 2ed TEAM PROJECT <a href="https://github.com/ssoom98/FitAI-Pro"><img src="https://img.shields.io/badge/[FitAI_Pro]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
 
+# 교육이수 기술 내역서
+![교육이수기술내역서](https://github.com/user-attachments/assets/efcb153c-0780-44e9-9b1d-f2bdd9e0d25a)
 
  # 📚 SKIL
  ### Programming
